@@ -746,7 +746,12 @@
     text-transform: uppercase;
     text-decoration: none;
 }
-
+/* Delete these .slider-block when "React-slider" is ready */
+.slider-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 
 /* Newsletter */
